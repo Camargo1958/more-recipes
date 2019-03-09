@@ -1,0 +1,4 @@
+{
+    "plugins": ["@babel/plugin-transform-destructuring", "@babel/plugin-proposal-object-rest-spread"],
+    "presets": [ "@babel/env"]
+}

@@ -1,5 +1,9 @@
 # MORE-RECIPES
-A platform for users to share awesome and exciting recipe ideas they have invented or learnt. 
+COPY FROM: https://github.com/bahdcasts/more-recipes
+Here used to learn Javascipt testing
+
+A platform for users to share awesome and exciting recipe ideas they have invented or learnt.
+
 ****
 ## Introduction
 More-Recipes provides a platform for users to share the awesome and exciting  recipe ideas they have invented or learnt.  Suppose a user comes up with a recipe,  he/she can post it on More-Recipes and  get feedback in form of reviews and votes from other users who explore that recipe. Users can also keep a list of their favorite recipes on the application.
@@ -110,7 +114,4 @@ All api routes are prefixed with `/api/v1`
 ```
 
 #### How To Contribute
-* Fork the repository
-* Create a feature branch with a feature.md file
-* Write tests and make them pass
-* Open a pull request
+* PLEASE SEE ORIGINAL REPO ON:https://github.com/bahdcasts/more-recipes
